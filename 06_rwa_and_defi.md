@@ -1,5 +1,6 @@
 # Lending & Borrowing
 - https://gov.centrifuge.io/t/cp103-launch-an-rwa-lending-market/6346
+- https://gov.centrifuge.io/t/cp116-rwa-lending-market-liquidity-bootstrap/6467
 
 
 
