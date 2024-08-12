@@ -6,7 +6,8 @@
 ### Things to look at  - Priority 0
 - [ ] Get original fund documents for US and international RWA funds. This will help us understand the rules and conditions of the fund and of the investors.
 - [ ] Check for regulations on offering security to entities/companies. We already looked at offering it to individuals
-- [ ] What is the significance of Reg S. Which companies should file it? Should each and every comapny file it? 
+- [ ] What is the significance of Reg S. Which companies should file it? Should each and every comapny file it?
+- [ ] Look at restriction of selling the securities under these rugulations
 - [ ] Read everything about https://backed.fi
 
 ###  Priority 1
