@@ -1,0 +1,12 @@
+###### SPVs
+- [ ] https://unece.org/fileadmin/DAM/stats/groups/wggna/GuideByChapters/Chapter_04.pdf
+- [ ] https://www.pwc.com/gx/en/banking-capital-markets/publications/assets/pdf/next-chapter-creating-understanding-of-spvs.pdf
+- [ ] https://www.nber.org/system/files/chapters/c9619/c9619.pdf
+- [ ] https://rodneywhitecenter.wharton.upenn.edu/wp-content/uploads/2014/04/0503.pdf
+- [ ] https://www.kau.edu.sa/Files/320/Researches/70077_43052.pdf
+- [ ] https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119220589.ch22
+- [ ] https://www.sciencedirect.com/science/article/abs/pii/S1075425316300989
+- [ ] https://link.springer.com/chapter/10.1007/978-3-030-63706-4_5
+- [ ] https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9650565
+- [ ] https://link.springer.com/article/10.1007/s11187-021-00539-9
+- [ ] https://iorj.hse.ru/data/2023/03/16/1714044663/4%20Kochergin.pdf
