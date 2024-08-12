@@ -15,7 +15,7 @@
 # Broker Dealers
 - https://www.sec.gov/about/reports-publications/divisionsmarketregbdguidehtm
 - https://www.finra.org/registration-exams-ce/broker-dealers
-
+- https://www.finra.org/about/firms-we-regulate/broker-dealer-firms-we-regulate
 
 # Transfer Agents
 - https://www.startengine.com/blog/the-role-of-transfer-agent-and-custodian-in-investment-management
@@ -26,6 +26,20 @@
 
 
 # Countries
+
+# SPV
+- https://www.linkedin.com/pulse/art-creating-spv-special-purpose-vehicle-7-essential-ogbechie-rust/
+
+Seems to be ver very good
+- https://rodneywhitecenter.wharton.upenn.edu/wp-content/uploads/2014/04/0503.pdf
+
+
+Special Purpose Vehicles and Securitization - Seems to be very good
+https://www.nber.org/system/files/chapters/c9619/c9619.pdf
+
+- https://www.pwc.com/gx/en/banking-capital-markets/publications/assets/pdf/next-chapter-creating-understanding-of-spvs.pdf
+- https://unece.org/fileadmin/DAM/stats/groups/wggna/GuideByChapters/Chapter_04.pdf
+- 
 
 ### Bermuda
 https://www.bma.bm/digital-asset-business 
