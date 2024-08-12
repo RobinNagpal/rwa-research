@@ -6,6 +6,7 @@
 - [ ] Type of funds that are registered in US(Just look at the specific cases of existing RWA projects. Not generic). This is the same as SPVs
 - [ ] Check for regulations on offering security to entities/companies. We already looked at offering it to individuals
 - [ ] What is the significance of Regs
+- [ ] Read everything about https://backed.fi
 
 ###  Priority 1
 - [ ] Regulations and exemptions of other countries - BVI, Bermuda, Singapore
