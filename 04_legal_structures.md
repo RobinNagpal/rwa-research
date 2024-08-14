@@ -31,6 +31,7 @@
 - https://www.linkedin.com/pulse/art-creating-spv-special-purpose-vehicle-7-essential-ogbechie-rust/
 
 Seems to be ver very good
+- https://esfccompany.com/en/articles/project-finance/spv-special-purpose-vehicle/
 - https://rodneywhitecenter.wharton.upenn.edu/wp-content/uploads/2014/04/0503.pdf
 
 
