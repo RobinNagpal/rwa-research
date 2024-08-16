@@ -41,7 +41,8 @@ if you are purely focused on the accredited investors or professional investors.
 - https://dfpi.ca.gov/wp-content/uploads/sites/337/forms/Securities/Form25102.1d.pdf 
 - https://www.youtube.com/watch?v=T4tKWLtT6LI 
 - https://www.youtube.com/watch?v=ya7zQtnNz8Y&t=510s 
-- https://www.sec.gov/files/formc.pdf 
+- https://www.sec.gov/files/formc.pdf
+- https://www.pillsburylaw.com/a/web/476/RobbinsRegS2013.pdf
 
 # Exemptions - US
 
