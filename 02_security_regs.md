@@ -37,6 +37,11 @@ if you are purely focused on the accredited investors or professional investors.
 
 
 # References
+https://www.sec.gov/info/smallbus/secg/regulation-a-amendments-secg 
+https://dfpi.ca.gov/wp-content/uploads/sites/337/forms/Securities/Form25102.1d.pdf 
+https://www.youtube.com/watch?v=T4tKWLtT6LI 
+https://www.youtube.com/watch?v=ya7zQtnNz8Y&t=510s 
+https://www.sec.gov/files/formc.pdf 
 
 # Exemptions - US
 
