@@ -20,14 +20,16 @@
 - [ ] https://www.elibrary.imf.org/view/journals/005/2022/006/005.2022.issue-006-en.xml
 - [ ] https://www.bis.org/publ/joint23.pdf
 - [ ] https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/transfers_and_servic/transfers_and_servic_US/chapter_1_introducti__4_US/14_structures_common_US.html#pwc-topic.dita_1819291308187426
-
-
 - [ ] https://www.youtube.com/watch?v=9QbbAB5DWkk
 - [ ] https://www.youtube.com/watch?v=WwvIhnrz4iY
 - [ ] https://www.youtube.com/watch?v=3XqvC3EnR14
 
+**Course**
+- https://www.coursera.org/learn/infrastructure-investing/home/week/1
 
 ### Orphaned Entities
 
 
 ### Bankruptcy Remote Entities
+
+
