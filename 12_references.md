@@ -1,4 +1,12 @@
 ###### SPVs
+**Cayman Islands**
+- [ ] https://www.mondaq.com/caymanislands/finance-and-banking/1344350/securitisation-comparative-guide
+- [ ] https://www.conyers.com/publications/view/10-things-you-need-to-know-about-cayman-islands-spvs-for-asset-finance-transactions/
+- [ ] https://www.mourant.com/media---guides/mourant---securitisation-and-cayman-orphan-spvs---part-one.pdf
+- [ ] https://www.mourant.com/media---guides/mourant---securitisation-and-cayman-orphan-spvs---part-two.pdf
+- [ ] https://www.mourant.com/media---guides/mourant---securitisation-and-cayman-orphan-spvs---part-three.pdf
+
+
 
 **Very good ones**
 - [ ] https://unece.org/fileadmin/DAM/stats/groups/wggna/GuideByChapters/Chapter_04.pdf
