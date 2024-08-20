@@ -17,3 +17,6 @@
 
 ## Bermuda
 - https://www.bma.bm/digital-assets-supervision-regulation
+
+## Liechtenstein
+- https://cointelegraph.com/learn/an-overview-of-the-liechtenstein-blockchain-act
