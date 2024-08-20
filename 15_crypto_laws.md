@@ -1,6 +1,7 @@
 ## Switzerland
 - https://www.mme.ch/en/magazine/articles/new-swiss-dlt-exchange-license
 - https://www.pwc.ch/en/insights/regulation/swiss-dlt-new-regulations.html
+- https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/switzerland/
 
 ## Cayman Islands
 - https://www.mourant.com/news-and-views/guides/the-cayman-islands-virtual-asset-service-providers-regime.aspx
