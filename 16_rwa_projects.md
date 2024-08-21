@@ -21,5 +21,8 @@
 - https://groundfloor.com/sec-fillings/
 - Vinovest - https://www.vinovest.co/how-it-works
 - Percent - https://percent.com/
+- Small Change - https://www.smallchange.co/
+
+  
 
 
