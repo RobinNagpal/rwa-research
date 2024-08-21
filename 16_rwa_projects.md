@@ -15,3 +15,16 @@
 
 # RealT
 - https://realt.co/wp-content/uploads/2019/05/RealToken_White_Paper_US_v03.pdf
+
+# Other Web2 Projects
+
+### Groundfloor
+- https://groundfloor.com
+- https://groundfloor.com/sec-fillings/
+- https://www.youtube.com/watch?v=N1MzFAB2KuQ&t=8s
+
+### Vinovest 
+- https://www.vinovest.co/how-it-works
+
+### Percent
+- https://percent.com/
