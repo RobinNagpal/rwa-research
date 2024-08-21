@@ -22,7 +22,7 @@
 - Vinovest - https://www.vinovest.co/how-it-works
 - Percent - https://percent.com/
 - Small Change - https://www.smallchange.co/
-
+- https://yieldtalk.com/crowdfunding-investment-websites
   
 
 
