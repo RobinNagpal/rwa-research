@@ -44,5 +44,6 @@
 
 ## Regulations
 - Crypto Funding Portals | Global Licensing & Limitations | Adam Tracy - https://www.youtube.com/watch?v=xeEyfHW1aoY
+- Regulation A+ | Security Token Offering Solution? | Adam Tracy - https://www.youtube.com/watch?v=rQTKKtTtUKM
  
 
