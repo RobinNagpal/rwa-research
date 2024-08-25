@@ -3,6 +3,7 @@
 - https://info.ixswap.io/
 - https://www.ixswap.io/
 - Blockchain CEO Series with David Goone of Tzero - https://www.youtube.com/watch?v=72pahdXzGpY - https://tzero.com/
+- https://www.oasispromarkets.com/ - Episode 5: What Is An Alternative Trading System (ATS) For Real Estate? - https://www.youtube.com/watch?v=eZ6xHzMl7rg
 
 
 
