@@ -2,6 +2,8 @@
 - https://www.sdx.com/
 - https://info.ixswap.io/
 - https://www.ixswap.io/
+- Blockchain CEO Series with David Goone of Tzero - https://www.youtube.com/watch?v=72pahdXzGpY - https://tzero.com/
+
 
 
 # Funds
