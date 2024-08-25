@@ -41,6 +41,8 @@
 ## RWA Industry Updates
 - [ ] https://medium.com/security-token-group/asset-tokenization-trends-of-2024-blackrocks-buidl-and-realt-2f696977f25d
 - [ ] https://realt.co/
-### Bankruptcy Remote Entities
 
+## Regulations
+- Crypto Funding Portals | Global Licensing & Limitations | Adam Tracy - https://www.youtube.com/watch?v=xeEyfHW1aoY
+ 
 
