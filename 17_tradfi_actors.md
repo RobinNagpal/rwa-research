@@ -1,5 +1,7 @@
 # Broker Dealer
 
+# national securities exchange
+
 # Alternative Trading System
 
 # Secondary Markets
