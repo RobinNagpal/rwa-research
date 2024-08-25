@@ -48,6 +48,7 @@
 - DEX Compliance Update | SEC Registration On The Horizon? | Adam Tracy - https://www.youtube.com/watch?v=RSAluT6_awA
 - Securities Tokenization | A How To Guide | Adam Tracy - https://www.youtube.com/watch?v=hiwGwm3G8YA
 - Alternative Trading Systems (ATS), Blockchain Offerings (Reg D & Reg S), And Liquidity - https://www.youtube.com/watch?v=oHDart_sGAw
+- The Role of Broker-dealer Infrastructure and Alternative Trading Systems - https://www.youtube.com/watch?v=rLI75kcicds
 
  
 
