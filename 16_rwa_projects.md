@@ -1,5 +1,7 @@
 # Exchnages
 - https://www.sdx.com/
+- https://info.ixswap.io/
+- https://www.ixswap.io/
 
 
 # Funds
