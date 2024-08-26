@@ -23,8 +23,6 @@ https://www.vinovest.co/blog/alternative-investment-funds
 
 ### Yield
 
-Antiques, art, coins & wine
-
 Farmland
 
 Gas & oil production
@@ -34,6 +32,10 @@ Private debt/ credit
 Infrastructure
 
 https://monestro.com/en/18-alternative-investments/
+
+### Other categories
+
+Antiques, art, coins & wine
 
 # Private/Alternate investment Asset Types
 
