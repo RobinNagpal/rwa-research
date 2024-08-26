@@ -5,10 +5,13 @@ Private Equity
 
 Venture Capital
 
-Angel Investing
+Infrastructure
 
 Crowdfunding
 
+Equity in Music and Film Projects
+
+Equity in Renewable Energy Projects
 
 ### Yield
 Real Estate Investment Trusts
