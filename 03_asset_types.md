@@ -27,11 +27,14 @@ Antiques, art, coins & wine
 
 Hedge funds
 
-Commercial or residential property
 
 Farmland
 
 Gas & oil production
+
+Private debt
+
+Infrastructure
 
 https://monestro.com/en/18-alternative-investments/
 
