@@ -1,24 +1,14 @@
 # Private/Alternate investment Asset Types
 
-### Equity & Yield
-
-Private Equity
+### Private Equity
 
 Venture Capital
 
-Infrastructure
+Growth Equity
 
-Crowdfunding
+Buyouts
 
-Equity in Music and Film Projects
-
-Equity in Renewable Energy Projects
-
-Real Estate Investment Trusts
-
-Business Development Companies
-
-Farmland
+https://online.hbs.edu/blog/post/types-of-private-equity 
 
 
 # Private/Alternate investment Asset Types
