@@ -11,6 +11,16 @@ Buyouts
 https://online.hbs.edu/blog/post/types-of-private-equity 
 
 
+Real Estate Funds
+
+Real estate mutual funds
+
+Real estate exchange traded funds
+
+Private real estate investment funds
+
+https://www.vinovest.co/blog/alternative-investment-funds
+
 # Private/Alternate investment Asset Types
 
 ### Explain the asset type
