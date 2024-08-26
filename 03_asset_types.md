@@ -13,6 +13,8 @@ Equity in Music and Film Projects
 
 Equity in Renewable Energy Projects
 
+Real Estate Investment Trusts
+
 ### Yield
 Real Estate Investment Trusts
 
@@ -46,3 +48,5 @@ References
 https://www.investopedia.com/terms/a/alternative_investment.asp
 
 https://www.rocketdollar.com/alternative-investments
+
+https://monestro.com/en/18-alternative-investments/
