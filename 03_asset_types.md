@@ -1,6 +1,7 @@
 # Private/Alternate investment Asset Types
 
-### Equity
+### Equity & Yield
+
 Private Equity
 
 Venture Capital
@@ -15,25 +16,9 @@ Equity in Renewable Energy Projects
 
 Real Estate Investment Trusts
 
-### Yield
-Real Estate Investment Trusts
-
-Master Limited Partnerships (MLPs)
-
-Infrastructure
-
 Business Development Companies
 
-Private Equity Funds
-
-Agricultural Investment Funds
-
-Royalty Trusts
-
-
-
-Mention all types
-
+Farmland
 
 
 # Private/Alternate investment Asset Types
