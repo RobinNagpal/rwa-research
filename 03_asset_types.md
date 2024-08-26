@@ -1,4 +1,8 @@
 # Private/Alternate investment Asset Types
+
+### Equity
+### Yield
+
 Mention all types
 
 
