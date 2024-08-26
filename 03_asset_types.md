@@ -29,7 +29,7 @@ Farmland
 
 Gas & oil production
 
-Private debt
+Private debt/ credit
 
 Infrastructure
 
