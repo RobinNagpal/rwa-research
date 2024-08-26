@@ -25,9 +25,6 @@ https://www.vinovest.co/blog/alternative-investment-funds
 
 Antiques, art, coins & wine
 
-Hedge funds
-
-
 Farmland
 
 Gas & oil production
