@@ -16,4 +16,5 @@ Mention all types
 
 References
 https://www.investopedia.com/terms/a/alternative_investment.asp
+
 https://www.rocketdollar.com/alternative-investments
