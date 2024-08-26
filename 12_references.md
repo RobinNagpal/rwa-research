@@ -64,3 +64,5 @@
 ## VASP
 - BVI Crypto License | Offshore VASP License | Adam Tracy - https://www.youtube.com/watch?v=33UJVNohUvk
 
+## Research
+- https://outlierventures.io/wp-content/uploads/2024/01/RWA-Thesis-Final-1.pdf
