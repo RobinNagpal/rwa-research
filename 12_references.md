@@ -56,6 +56,9 @@
 ## ATS
 - The Future of Alternative Trading Systems - https://www.youtube.com/watch?v=4IFtgvCLVes
 
+## Broker Dealers
+- So, You Want to be a Special Purpose Broker Dealer? - a WSBA webinar - https://www.youtube.com/watch?v=fGMSf5ksLc0
+
  
 
 ## VASP
