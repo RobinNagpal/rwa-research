@@ -21,6 +21,20 @@ Private real estate investment funds
 
 https://www.vinovest.co/blog/alternative-investment-funds
 
+### Yield
+
+Antiques, art, coins & wine
+
+Hedge funds
+
+Commercial or residential property
+
+Farmland
+
+Gas & oil production
+
+https://monestro.com/en/18-alternative-investments/
+
 # Private/Alternate investment Asset Types
 
 ### Explain the asset type
@@ -34,6 +48,6 @@ https://www.investopedia.com/terms/a/alternative_investment.asp
 
 https://www.rocketdollar.com/alternative-investments
 
-https://monestro.com/en/18-alternative-investments/
+
 
 https://www.ipglobal-ltd.com/insights/top-7-alternative-investments-available-to-individuals-for-2024/
