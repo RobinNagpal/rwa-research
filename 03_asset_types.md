@@ -13,3 +13,6 @@ Mention all types
 ### Pros and Cons of each asset type
 ### Type of private offerings for this asset
 ### How to perform due delligence in this asset type
+
+References
+https://www.investopedia.com/terms/a/alternative_investment.asp
