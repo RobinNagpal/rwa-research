@@ -53,6 +53,8 @@
 - The Dynamics of Digital Exchanges - https://www.youtube.com/watch?v=qZd1Asnlycs
 
 
+## ATS
+- The Future of Alternative Trading Systems - https://www.youtube.com/watch?v=4IFtgvCLVes
 
  
 
