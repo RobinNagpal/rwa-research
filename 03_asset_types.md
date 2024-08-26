@@ -1,7 +1,20 @@
 # Private/Alternate investment Asset Types
 
 ### Equity
+Private Equity
+Venture Capital
+Angel Investing
+Crowdfunding
+
 ### Yield
+Real Estate Investment Trusts
+Master Limited Partnerships (MLPs)
+Infrastructure
+Business Development Companies
+Private Equity Funds
+Agricultural Investment Funds
+Royalty Trusts
+
 
 Mention all types
 
