@@ -66,3 +66,4 @@
 
 ## Research
 - https://outlierventures.io/wp-content/uploads/2024/01/RWA-Thesis-Final-1.pdf
+- https://assets.kpmg.com/content/dam/kpmg/sg/pdf/2024/02/kpmg-sfa-the-asset-tokenization-c-suite-playbook.pdf
