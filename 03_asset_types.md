@@ -50,3 +50,5 @@ https://www.investopedia.com/terms/a/alternative_investment.asp
 https://www.rocketdollar.com/alternative-investments
 
 https://monestro.com/en/18-alternative-investments/
+
+https://www.ipglobal-ltd.com/insights/top-7-alternative-investments-available-to-individuals-for-2024/
