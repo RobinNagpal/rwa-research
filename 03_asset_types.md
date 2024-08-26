@@ -1,3 +1,7 @@
+# Private/Alternate investment Asset Types
+Mention all types
+
+
 
 # Private/Alternate investment Asset Types
 
