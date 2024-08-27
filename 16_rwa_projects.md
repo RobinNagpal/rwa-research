@@ -9,6 +9,7 @@
 - https://mattereum.com/
 - https://dinari.com/
 - https://tokeny.com/
+- https://tokenfi.com/
 
 
 # Funds
