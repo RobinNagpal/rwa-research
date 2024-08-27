@@ -10,6 +10,7 @@
 - https://dinari.com/
 - https://tokeny.com/
 - https://tokenfi.com/
+- https://polymath.network/
 
 
 # Funds
