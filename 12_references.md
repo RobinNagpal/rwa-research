@@ -1,3 +1,6 @@
+## Full process
+- https://medium.com/@buildingblockgroup/how-to-tokenize-assets-and-conduct-a-security-token-offering-sto-building-block-group-3493698e20f7
+
 ###### SPVs
 **Cayman Islands**
 - [ ] https://www.mondaq.com/caymanislands/finance-and-banking/1344350/securitisation-comparative-guide
