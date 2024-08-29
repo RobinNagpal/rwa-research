@@ -30,6 +30,7 @@
 # JP Morgan
 - https://www.linkedin.com/in/tylobban/ 
 - https://www.youtube.com/watch?v=Vas4iOC3p_A
+- https://www.youtube.com/watch?v=j-Rmo60v_pY
 
 
 # Onramp
