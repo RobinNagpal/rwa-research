@@ -1,4 +1,4 @@
-From this document create a table with rows representing information for each of the below digital asset questions. Add 3-4 lines for the following jurisdiction. Be specific in the answer and then the exact requirements or conditions.
+From this document create a table with rows representing information for each of the below digital asset questions. Add 3-4 lines for the following jurisdiction. Be specific in the answer and then the exact requirements or conditions. Consider all cases i.e. if the token is an asset backed token, debt backed token, utility token, and payment token like a stable coin.
 
 1) Does that jurisdiction provide specific rules for asset issuance on digital ledger? Tell the specific rules?
 2) Provides clarity over resale of digital assets? What are the exact requirements?
