@@ -1,3 +1,6 @@
+## Full process
+- https://medium.com/@buildingblockgroup/how-to-tokenize-assets-and-conduct-a-security-token-offering-sto-building-block-group-3493698e20f7
+
 ###### SPVs
 **Cayman Islands**
 - [ ] https://www.mondaq.com/caymanislands/finance-and-banking/1344350/securitisation-comparative-guide
@@ -64,3 +67,6 @@
 ## VASP
 - BVI Crypto License | Offshore VASP License | Adam Tracy - https://www.youtube.com/watch?v=33UJVNohUvk
 
+## Research
+- https://outlierventures.io/wp-content/uploads/2024/01/RWA-Thesis-Final-1.pdf
+- https://assets.kpmg.com/content/dam/kpmg/sg/pdf/2024/02/kpmg-sfa-the-asset-tokenization-c-suite-playbook.pdf
